@@ -1,0 +1,14 @@
+{
+    "camNumber": 0,
+    "resolutionIn": [
+        1920,
+        1080
+    ],
+    "frameRate": 24,
+    "resolutionOut": [
+        1080,
+        1920
+    ],
+    "rotation": 90,
+    "crop" : 0
+}
